@@ -1,0 +1,5 @@
+numpy
+pytorch
+matplotlib
+scikit-image
+jupyter
